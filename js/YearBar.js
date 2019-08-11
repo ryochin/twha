@@ -113,4 +113,30 @@ function YearBar()
 	{
 		arrow_r.src = 'img/arrow-right.png';
 	});
+
+  function year_diff(code)
+  {
+    switch (code) {
+      case 39:
+        return data.year === -1 ? +2 : +1;
+      case 37:
+        return data.year === 1 ? -2 : -1;
+      case 38:
+        return data.year >= -9 && data.year <= -1 ? +11 : +10;
+      case 40:
+        return data.year >= 1 && data.year <= 10 ? -11 : -10;
+      default:
+        return 0;
+    }
+  };
+
+  document.onkeydown = function(e)
+  {
+    data.year += year_diff(e.keyCode);
+
+    update_cursor();
+    if (on_changed_handler) {
+      on_changed_handler();
+    }
+  };
 }
