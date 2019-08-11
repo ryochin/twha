@@ -1,7 +1,7 @@
 The World Historical Atlas
 ==========================
 
-[The map](https://ryochin.github.io/twha/) is originated from [x768.com/w/twha](http://x768.com/w/twha).
+[The map](https://ryochin.github.io/twha/) is originated from [x768.com/w/twha](http://x768.com/w/twha.en).
 
 Take a look at the site above about service condition, copyright etc.
 
