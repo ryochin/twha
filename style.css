@@ -44,6 +44,19 @@ img {
 #lang-zh {
 	left: 370px;
 }
+#about {
+  position: absolute;
+  left: 500px;
+  top: 13px;
+  width: 60px;
+  padding: 2px 0;
+  border: 1px solid gray;
+  background: white;
+  color: black;
+  text-align: center;
+  font-size: 12px;
+  cursor: pointer;
+}
 #scale-zoom {
 	position: absolute;
 	top: 8px;
