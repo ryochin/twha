@@ -31,6 +31,7 @@ abe-shinzo - public domain (http://www.whitehouse.gov/news/releases/2007/09/imag
 abhisit - copyrighted (http://media.thaigov.go.th/pageconfig/viewcontent/viewcontent1e.asp?pageid=472&directory=1944&contents=26250)
 adam-malik - public domain (http://www.setwapres.go.id/profil-adammalik.htm)
 adil-abdul-mahdi - https://commons.wikimedia.org/wiki/File:Adil_Abdul-Mahdi_portrait.jpg
+abiy-ahmed - https://www.flickr.com/photos/145325932@N03/31058066597/in/dateposted-public/
 adnan-terzic - http://www.defenselink.mil/photos/Jun2004/040614-D-2987S-007.html
 adolfo-ruiz-cortines - public domain (http://content.answers.com/main/content/wp/en/thumb/3/3b/180px-Adolfo_Cortines.gif)
 adolfo-suarez - http://personales.jet.es/politica21/expoUCD.htm
@@ -142,6 +143,7 @@ bill-english - Creative Commons Attribution-Share Alike 2.0 Generic (https://www
 bingu-wa-mutharika - copyrighted (http://flickr.com/photos/15237218@N00/2553747564)
 boediono - http://en.wikipedia.org/wiki/File:Boediono_2009.png
 boniface-alexandre - Creative Commons Attribution 2.5 Brazil (http://img.radiobras.gov.br/Aberto/index.php/Imagens.Principal.60.0.2004-07-08)
+boris-johnson - https://www.gov.uk/government/speeches/boris-johnsons-first-speech-as-prime-minister-24-july-2019
 boris-tadic - http://www.predsednik.yu/mwc/pic/10/20060904141200/boristadic-v.jpg
 boris-trajkovski - http://www.defenselink.mil/photos/May2001/010502-D-9880W-073.html
 borut-pahor - http://www.flickr.com/photos/78124518@N00/3553811204/
@@ -245,6 +247,7 @@ eduardo-duhalde - Creative Commons Attribution 2.5 Brazil (http://www.agenciabra
 eduardo-frei - public domain (http://www.pentagon.gov/photos/Jun1998/980525-D-2987S-139.html)
 edward-adami - http://www.president.gov.mt/default%20pages/official%20photos1.JPG
 edward-natapei - http://www.flickr.com/photos/statephotos/3949387205
+egils-levits - https://www.flickr.com/photos/valstskanceleja/7995453799/
 ehud-barak - public domain (http://www.house.gov/weiner/photos/ph_barak.htm)
 ehud-olmert - public domain (http://www.state.gov/r/pa/ei/pix/2007/feb/80663.htm)
 einars-repse - copyrighted (http://www.mk.gov.lv/site/New%2520Folder/pic/Ministri/e_repse.jpg)
@@ -256,7 +259,7 @@ emile-lahoud - Creative Commons Attribution 2.5 Brazil (http://img.radiobras.gov
 emilio-medici - Creative Commons Attribution 2.5 Brazil License (https://www.planalto.gov.br/Infger_07/presidentes/gale.htm)
 emmanuel-palaez - copyrighted (http://www.ovp.gov.ph/)
 emomali-rahmonov - http://www.defenselink.mil/photos/Nov2001/011103-D-9880W-156.html
-emp-naruhito - https://www.flickr.com/photos/micheltemer/40858751632/
+emp-naruhito - https://www.flickr.com/photos/uk-in-japan/16492423740/
 enda-kenny -Creative Commons Attribution 2.0 Generic (http://commons.wikimedia.org/wiki/File:EPP_Summit_18_June_2009.jpg)
 enkhbayar - public domain (http://www.whitehouse.gov/news/releases/2005/11/images/20051121_p112105pm-0152jpg-515h.html)
 enkhbold - copyrighted (http://www.kantei.go.jp/jp/koizumiphoto/2006/03/28mongol.html)
@@ -405,6 +408,7 @@ ibrahim-mohamed-solih - https://commons.wikimedia.org/wiki/File:The_Prime_Minist
 ibrahim-nasir - copyrighted (http://www.minivannews.com/index.php)
 idriss-deby - http://commons.wikimedia.org/wiki/Image:Idriss_D%C3%A9by_headshot.jpg
 ignatius-acheampong - public domain (http://commons.wikimedia.org/wiki/Image:Acheamphong.jpg)
+igor-dodon - Creative Commons Attribution 4.0 (http://www.kremlin.ru/events/president/news/53742/photos)
 igor-luksic - http://en.wikipedia.org/wiki/File:Igor_Luk%C5%A1i%C4%87.jpg
 ikeda-hayato.png - http://commons.wikimedia.org/wiki/Image:Hayato_Ikeda_1956.jpg (youtube)
 indira-gandhi - public domain (http://imglib.lbl.gov/ImgLib/COLLECTIONS/BERKELEY-LAB/images/XBD_9510-04653.lowres.jpeg)
@@ -512,6 +516,7 @@ katayama - public domain (http://www.kantei.go.jp/jp/rekidai/souri/46.html)
 katrin-jakobsdottir - http://www.norden.org/en/news-and-events/images/people/minister-of-co-operation/iceland/katrin-jakobsdottir/katrin-jakobsdottir-3/view
 kennedy - public domain (http://www.jfklibrary.org/Asset+Tree/Asset+Viewers/Image+Asset+Viewer.htm?guid={B9C835C6-2EF1-4C3F-A600-B4BE064F1A20}&type=Image)
 kenneth-kaunda - http://defenseimagery.mil/imagery.html#guid=1f3e5b250071ea42e475c96d7cf2756f48f13085
+kersti-kaljulaid - https://www.flickr.com/photos/eu2017ee/37130700010/
 kevin-rudd - http://en.wikipedia.org/wiki/Image:KevinRuddZoom.JPG - http://www.flickr.com/photo_zoom.gne?id=489401535&size=o
 khalifa-bin-zaid-nahyan - http://www.pentagon.gov/photos/Aug1997/970617-D-2987S-115.html
 khamenei - (http://www.sajed.ir/pe/images/stories/img_pictures/originals/20070219_1118236758_walpaper-agha-001.jpg)
@@ -539,6 +544,7 @@ konoe - public domain (http://www.kantei.go.jp/jp/rekidai/souri/34.html)
 konstantinos-tsatsos - copyrighted (http://www.presidency.gr/biotsatsos.htm)
 kostas-simitis - Creative Commons Attribution 3.0 Unported (http://commons.wikimedia.org/wiki/File:Vladimir_Putin_in_Saint_Petersburg-46.jpg)
 kriangsak-chomanan - http://www.archives.gov/research/arc/index.html ARC identifier 183329
+krisjanis-karins - Creative Commons Attribution-Share Alike 3.0 Unported (https://commons.wikimedia.org/wiki/File:Karins,_Krisjanis-9702.jpg)
 kubitschek - Creative Commons Attribution 2.5 Brazil (https://www.planalto.gov.br/Infger_07/presidentes/gale.htm)
 kurmanbek-bakiyev - http://www.pentagon.gov/photos/Jul2005/050726-F-6911G-001.jpg
 kurt-waldheim - copyrighted (http://www.bmlv.gv.at/download_archiv/photos/bundesminister/images/hbp_waldheim.jpg)
@@ -547,6 +553,7 @@ kwasniewski - http://commons.wikimedia.org/wiki/Image:Aleksander_kwasniewski_kon
 
 lacalle - http://uruguay.usembassy.gov/usaweb/paginas/2006/06-424EN.shtml
 lai-ching-te - http://www.tainan.gov.tw/tainan/mayor.asp?nsub=M1A000
+laimdota-straujuma - https://www.flickr.com/photos/saeima/12083280455/
 lamberto-dini - http://www.defenselink.mil/photos/Mar1997/970307-D-2987S-004.jpg
 laura-chinchilla - http://sanjose.usembassy.gov/pr20100209_laura.html
 laurent-gbagbo - http://www.voanews.com/english/2007-10-31-ivorycoast.cfm
@@ -594,6 +601,7 @@ mahathir - http://en.wikipedia.org/wiki/Image:Mm_un.jpg
 mahinda-rajapakse - public domain (http://www.mahinda4srilanka.org/uniportal/web/index.asp?mi=79&xp=2375&xi=2746&xl=3&o=1&t=6)
 mahmoud-abbas - http://www.state.gov/r/pa/ei/pix/2007/feb/80663.htm
 mahmoud-jibril - http://commons.wikimedia.org/wiki/File:Mahmoud_Jibril.jpg
+maia-sandu - https://www.flickr.com/photos/eppofficial/35463818515/
 mainassara - copyrighted (http://www.delgi.ne/presidence/Mainassara.jpg)
 maktoum-bin-rashid-maktoum - http://www.alamuae.com/al-maktoum/showtopics-175.html
 malcolm-turnbull - Creative Commons Attribution 2.0 Generic (https://www.flickr.com/photos/secdef/24463397435/)
@@ -620,6 +628,7 @@ mariano-rajoy - Creative Commons Attribution 2.0 Generic (http://www.flickr.com/
 marie-louise-coleiro-preca - Creative Commons Attribution-Share Alike 4.0 International (https://commons.wikimedia.org/wiki/File:Marie-Louise_Coleiro_Preca.jpg)
 mari-kiviniemi - http://commons.wikimedia.org/wiki/File:Mari_Kiviniemi.20100612.Lahti.Finland.paloneva.JPG
 mario-soares - Creative Commons Attribution 2.5 Brazil (http://img.radiobras.gov.br/Aberto/index.php/Imagens.Principal.40.0.2003-01-24)
+maris-kucinskis - https://www.flickr.com/photos/saeima/5145443816/
 mark-rutte - Copyrighted (http://www.vvd.nl/content/46/persfotos)
 marquess-of-salisbury - public domain
 martin-torrijos - http://www.whitehouse.gov/news/releases/2007/02/images/20070216_d-0138-1-515h.html
@@ -752,6 +761,7 @@ paul-keating - copyrighted (http://www.nla.gov.au/apps/cdview?pi=nla.pic-an89361
 paul-martin - public domain (http://www.usembassycanada.gov/content/content.asp?section=can_usa&subsection1=meetings&document=bush_martin_dcphotos)
 paul-xuereb - Creative Commons Attribution-ShareAlike 3.0 (http://www.president.gov.mt/default%20pages/official%20photos1.JPG)
 paulo6 - public domain (http://arcweb.archives.gov/arc/digital_detail.jsp?&pg=349&rn=349&tn=192493&st=b&rp=digital&nh=1000)
+pavel-filip - https://www.flickr.com/photos/itupictures/11322438465/
 petro-poroshenko - Creative Commons Attribution-Share Alike 2.0 Generic (http://www.flickr.com/photos/primeministergr/4165258031/)
 pedro-cateriano - Creative Commons Attribution 2.0 Generic (https://www.flickr.com/photos/92793865@N07/13977985203/)
 pedro-pablo-kuczynski - https://www.flickr.com/photos/cancilleriadeperu/28578106286/
@@ -790,6 +800,7 @@ rajiv-gandhi - copyrighted (http://www.aicc.org.in/rajiv_gandhi_files/rajiv2.gif
 rafael-c-rodriguez - http://commons.wikimedia.org/wiki/Image:Caldera_and_Nixon_2.jpg
 rafik-hariri - http://www.defense.gov/photos/Apr2001/010425-D-2987S-005.html
 rafsanjani - http://commons.wikimedia.org/wiki/Image:Rafsanjani.jpg
+raimonds-vejonis - https://www.flickr.com/photos/saeima/5141673289/
 rainier3-of-monaco - copyrighted (http://newsfromrussia.com/world/2005/04/06/59021.html)
 rajendra-prasad - copyrighted (http://pib.nic.in/archive/50yrs/50phto/50b/ifrnr2.html)
 rama9 - http://th.wikipedia.org/w/index.php?title=Image%3ABhumibol2542.JPG
@@ -835,6 +846,7 @@ saakashivili - http://www.flickr.com/photos/15237218@N00/346741624/
 sabah4-of-kwait - http://state.gov/
 sadat - public domain (http://www.dodmedia.osd.mil/Assets/1982/Air_Force/DF-SC-82-05418.JPEG)
 saddam-hussein - public domain (http://en.wikipedia.org/wiki/Image:Iraq%2C_Saddam_Hussein_%28222%29.jpg)
+sahlework-zewde - https://www.flickr.com/photos/itupictures/28854127383/in/photostream/
 sali-berisha - http://en.wikipedia.org/wiki/Image:Sali_Berisha.jpg
 salman-of-saud - http://flickr.com/photos/68842444@N03/7067812455
 salva-kiir - http://commons.wikimedia.org/wiki/File:Salva_Kiir_Mayardit.jpg
@@ -929,6 +941,7 @@ tomislav-nicolic - Creative Commons Attribution 2.0 Generic (http://tomislavniko
 tommy-remengesau - http://www.doi.gov/oia/press/2008/03032008.html
 tony-abbott - Creative Commons Attribution 2.0 Generic (http://commons.wikimedia.org/wiki/File:Tony_Abbott_-_2010.jpg)
 tony-blair - public domain(http://www.state.gov/r/pa/ei/pix/2005/42959.htm)
+toomas-ilves - https://www.president.ee/et/pilt/collection_id-2361.html
 toredo - Creative Commons Attribution 2.5 Brazil (http://commons.wikimedia.org/wiki/Image:CASA128086.jpeg)
 traian-basescu - http://bucharest.usembassy.gov/US_Policy/Press/Bush_Basescu_03092005-Photos.html
 tran-duc-luong - copyrighted (http://img.radiobras.gov.br/Aberto/index.php/Imagens.Principal.40.0.2004-11-17)

@@ -78,6 +78,10 @@ img {
 	padding: 0;
 	overflow: hidden;
 }
+#layer-land img,#layer-tert img {
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
 #layer-tert {
 	opacity: 0.5;
 }
